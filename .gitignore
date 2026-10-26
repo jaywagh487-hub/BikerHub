@@ -1,0 +1,15 @@
+# Firebase and secrets
+google-services.json
+**/google-services.json
+local.properties
+**/local.properties
+secrets.properties
+.env
+*.jks
+*.keystore
+
+# Android build files
+.gradle/
+**/build/
+.idea/
+*.iml
